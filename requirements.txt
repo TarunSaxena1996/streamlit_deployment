@@ -21,6 +21,7 @@ langchain-groq
 duckduckgo_search
 pymupdf
 arxiv
+ddgs
 wikipedia
 mysql-connector-python
 SQLAlchemy
